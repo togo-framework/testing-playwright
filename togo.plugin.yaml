@@ -1,0 +1,5 @@
+name: testing-playwright
+kind: tooling
+description: Playwright end-to-end testing harness for togo apps.
+frontend:
+  dir: e2e
